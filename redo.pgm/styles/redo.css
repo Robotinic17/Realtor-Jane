@@ -650,11 +650,11 @@ footer img {
     }
 
     .ag1{
-        font-size: 4vw;
+        font-size: 3vw;
     }
 
     .grid_p2{
-        grid-template-columns: 95%;
+        grid-template-columns: 100%;
         gap: 0vw;
     }
 
@@ -765,7 +765,7 @@ footer img {
     }
 
     .foot a{
-        font-size: 10px;
+        font-size: 7px;
     }
 
     .foot a:hover{
@@ -780,11 +780,11 @@ footer img {
 }
 @media screen and (max-width: 380px) {
     .side-nav{
-        left: 234px;
+        left: 220px;
     }
 
     .ag1{
-        font-size: 3vw;
+        font-size: 2vw;
     }
 
     .ag2{
@@ -813,7 +813,7 @@ footer img {
         font-size: 11px;
     }
     .foot a{
-        font-size: 9px;
+        font-size: 7px;
     }
 
     .foot a:hover{
@@ -822,11 +822,11 @@ footer img {
 }
 @media screen and (max-width: 325px) {
     .side-nav{
-        left: 180px;
+        left: 170px;
     }
 
     .ag1{
-        font-size: 3vw;
+        font-size: 2vw;
     }
 
     .ag2{
