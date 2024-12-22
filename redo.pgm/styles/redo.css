@@ -780,11 +780,11 @@ footer img {
 }
 @media screen and (max-width: 380px) {
     .side-nav{
-        left: 220px;
+        left: 210px;
     }
 
     .ag1{
-        font-size: 2vw;
+        font-size: 1.4vw;
     }
 
     .ag2{
