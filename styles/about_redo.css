@@ -638,11 +638,12 @@ footer img {
         line-height: 6vw;
     }
 
-    input[type=text], select{
-        font-size: 2vw;
-        padding: 10px 5px 15px 5px;
-    }
-
+    input[type=text], select {
+    font-size: 3vw;
+    padding: 10px 5px 15px 5px;
+    width: 30vw;
+    gap: 11px;
+}
     input[type=text]:focus{
         padding: 10px 5px 15px 5px;
     }
@@ -719,10 +720,10 @@ footer img {
      }
  
      .foot a{
-         font-size: 9px;
+         font-size: 7px;
      }
  
      .foot a:hover{
-         font-size: 9px;
+         font-size: 7px;
      }
 }
