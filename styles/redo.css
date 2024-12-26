@@ -654,7 +654,7 @@ footer img {
     }
 
     .ag2{
-        font-size: 4vw;
+        font-size: 2vw;
     }
     
     .grid_p2{
@@ -773,7 +773,7 @@ footer img {
     }
 
     .foot a:hover{
-        font-size: 9px;
+        font-size: 8px;
     }
 
     .cop{
@@ -784,7 +784,7 @@ footer img {
 }
 @media screen and (max-width: 380px) {
     .side-nav{
-        left: 234px;
+        left: 230px;
     }
 
     .ag1{
@@ -792,7 +792,7 @@ footer img {
     }
 
     .ag2{
-        font-size: 5vw;
+        font-size: 3vw;
     }
 
     .grid_p2{
@@ -817,11 +817,11 @@ footer img {
         font-size: 11px;
     }
     .foot a{
-        font-size: 9px;
+        font-size: 7px;
     }
 
     .foot a:hover{
-        font-size: 9px;
+        font-size: 8px;
     }
 }
 @media screen and (max-width: 325px) {
