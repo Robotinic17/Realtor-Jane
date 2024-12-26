@@ -573,7 +573,7 @@ footer img {
         position: absolute;
         border-radius: 5%;
         top: -5px;
-        left: 264px;
+        left: 250px;
         transition: left 2s;
         height: fit-content;
         background-color: white;
@@ -653,8 +653,12 @@ footer img {
         font-size: 4vw;
     }
 
+    .ag2{
+        font-size: 4vw;
+    }
+    
     .grid_p2{
-        grid-template-columns: 95%;
+        grid-template-columns: 100%;
         gap: 0vw;
     }
 
@@ -765,11 +769,11 @@ footer img {
     }
 
     .foot a{
-        font-size: 10px;
+        font-size: 8px;
     }
 
     .foot a:hover{
-        font-size: 10px;
+        font-size: 9px;
     }
 
     .cop{
