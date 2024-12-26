@@ -655,12 +655,13 @@ footer img {
 
 @media screen and (max-width: 380px) {
     .side-nav{
-        left: 234px;
+        left: 220px;
     }
 
     .bout2 {
-        font-size: 3vw;
+        font-size: 2vw;
         line-height: 3vw;
+        width: 100%;
     }
 
     .tab th {
